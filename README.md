@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MohamedAhmeDdev
-- 👀 I’m interested in software development...
-- 🌱 I’m currently learning web development ...
-- 💞️ I’m looking to collaborate on ..coding.
+- 👀 I’m a software developer
+- 🌱 I’m currently learning software development
 - 📫 How to reach me  ma07041705@gmail.com...
 
 <!---
