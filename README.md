@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mohamed Ahmed
+- 👋 Hi 👋, I’m Mohamed Ahmed
 - 👀 I’m a software developer
 - 🌱 I’m currently learning software development
 - 📫 How to reach me  ma07041705@gmail.com
