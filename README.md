@@ -14,6 +14,6 @@ MohamedAhmeDdev/MohamedAhmeDdev is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 
   Skills:
-![image](https://user-images.githubusercontent.com/92859355/198895807-58e0f12f-f410-43e9-a666-9e26bd7e1728.png)
+https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg
 
 --->
