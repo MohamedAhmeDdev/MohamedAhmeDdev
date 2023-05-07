@@ -1,15 +1,10 @@
+Hi everyone 👋, I’m Mohamed Ahmed
 
+- 💬 Ask me about **react and javascript**
 
-
-
-
-- Hi everyone 👋, I’m Mohamed Ahmed
-
-
+- 📫 How to reach me **ma07041705@gmail.com**
 
 <p>As a front-end developer, I have a passion for creating software that not only works well but also looks great and is intuitive to use. My expertise lies in using modern web technologies. In addition to my technical skills, I also have a keen eye for design and usability, which allows me to create interfaces that are both beautiful and functional. Whether I'm working on a small project or a large enterprise application, I always strive to deliver high-quality code that is maintainable, scalable, and well-documented</p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedahmeddev&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedahmeddev" /> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -19,10 +14,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/mohamed ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed ahmed" height="30" width="40" /></a>
 </p>
-
-- 💬 Ask me about **react and javascript**
-
-- 📫 How to reach me **ma07041705@gmail.com**
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedahmeddev&show_icons=true&locale=en&layout=compact" alt="mohamedahmeddev" /></p>
