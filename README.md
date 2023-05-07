@@ -4,7 +4,7 @@ Hi everyone 👋, I’m Mohamed Ahmed
 <p>As a front-end developer, I have a passion for creating software that not only works well but also looks great and is intuitive to use. My expertise lies in using modern web technologies. In addition to my technical skills, I also have a keen eye for design and usability, which allows me to create interfaces that are both beautiful and functional. Whether I'm working on a small project or a large enterprise application, I always strive to deliver high-quality code that is maintainable, scalable, and well-documented</p>
 
 
-* 🌍  I'm based in im located in Nairobi, Kenya
+* 🌍  I'm based in Nairobi, Kenya
 * 🖥️  See my portfolio at [my portfolio](http://mohamedahmedm.vercel.app)
 * ✉️  You can contact me at [ma07041705@gmail.com](mailto:ma07041705@gmail.com)
 * 
