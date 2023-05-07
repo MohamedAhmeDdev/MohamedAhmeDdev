@@ -7,7 +7,7 @@
 
 
 
-<h3 align="center">As a front-end developer, I have a passion for creating software that not only works well but also looks great and is intuitive to use. My expertise lies in using modern web technologies. In addition to my technical skills, I also have a keen eye for design and usability, which allows me to create interfaces that are both beautiful and functional. Whether I'm working on a small project or a large enterprise application, I always strive to deliver high-quality code that is maintainable, scalable, and well-documented</h3>
+<p>As a front-end developer, I have a passion for creating software that not only works well but also looks great and is intuitive to use. My expertise lies in using modern web technologies. In addition to my technical skills, I also have a keen eye for design and usability, which allows me to create interfaces that are both beautiful and functional. Whether I'm working on a small project or a large enterprise application, I always strive to deliver high-quality code that is maintainable, scalable, and well-documented</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedahmeddev&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedahmeddev" /> </p>
 
