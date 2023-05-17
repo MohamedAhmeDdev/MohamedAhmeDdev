@@ -5,7 +5,7 @@ Hi everyone 👋, I’m Mohamed Ahmed
 
 
 * 🌍  I'm based in Nairobi, Kenya
-* 🖥️  See my portfolio at [my portfolio](http://mohamedahmedm.vercel.app)
+* 🖥️  See my portfolio at [my portfolio](https://mohamed-ahmed-tan.vercel.app/)
 * ✉️  You can contact me at [ma07041705@gmail.com](mailto:ma07041705@gmail.com)
 * 
 <h3 align="left">Languages and Tools:</h3>
