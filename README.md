@@ -1,7 +1,7 @@
 Hi everyone 👋, I’m Mohamed Ahmed
 
 
-<p>As a front-end developer, I have a passion for creating software that not only works well but also looks great and is intuitive to use. My expertise lies in using modern web technologies. In addition to my technical skills, I also have a keen eye for design and usability, which allows me to create interfaces that are both beautiful and functional. Whether I'm working on a small project or a large enterprise application, I always strive to deliver high-quality code that is maintainable, scalable, and well-documented</p>
+<p>As a front-end developer, I am passionate about creating user-friendly software that provides a seamless experience for the end-user. I am dedicated to the art of designing and developing attractive and intuitive interfaces that are not only visually appealing but also highly functional. I take great satisfaction in seeing my work bring joy and value to users.</p>
 
 
 * 🌍  I'm based in Nairobi, Kenya
