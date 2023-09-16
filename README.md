@@ -1,13 +1,15 @@
 Hi everyone 👋, I’m Mohamed Ahmed
 
 
-<p>As a front-end developer, I am passionate about creating user-friendly software that provides a seamless experience for the end-user. I am dedicated to the art of designing and developing attractive and intuitive interfaces that are not only visually appealing but also highly functional. I take great satisfaction in seeing my work bring joy and value to users.</p>
+# Welcome to Mohamed Ahmed GitHub Profile!
+
+👋 Hello, fellow developers and visitors! I'm Mohamed Ahmed, a passionate software developer with a love for creating elegant and efficient solutions to complex problems. This is my GitHub playground, where I showcase my projects, contributions, and journey in the world of software development.
 
 
 * 🌍  Location: Nairobi, Kenya
 * 🖥️  portfolio: [my portfolio](https://mohamed-ahmed-tan.vercel.app/)
 * ✉️  Email: [ma07041705@gmail.com](mailto:ma07041705@gmail.com)
-* 💬 Connect: [LinkedIn]: (https://www.linkedin.com/in/mohamed-ahmed-513947241/)
+* 💬 Connect: [LinkedIn](https://www.linkedin.com/in/mohamed-ahmed-513947241/)
 
   I'm always open to new opportunities, collaborations, and discussions. Feel free to reach out via email at ma07041705@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/mohamed-ahmed-513947241/).
 
