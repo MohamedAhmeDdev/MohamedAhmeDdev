@@ -4,11 +4,16 @@ Hi everyone 👋, I’m Mohamed Ahmed
 <p>As a front-end developer, I am passionate about creating user-friendly software that provides a seamless experience for the end-user. I am dedicated to the art of designing and developing attractive and intuitive interfaces that are not only visually appealing but also highly functional. I take great satisfaction in seeing my work bring joy and value to users.</p>
 
 
-* 🌍  I'm based in Nairobi, Kenya
-* 🖥️  See my portfolio at [my portfolio](https://mohamed-ahmed-tan.vercel.app/)
-* ✉️  You can contact me at [ma07041705@gmail.com](mailto:ma07041705@gmail.com)
-* 
-<h3 align="left">Languages and Tools:</h3>
+* 🌍  Location: Nairobi, Kenya
+* 🖥️  portfolio: [my portfolio](https://mohamed-ahmed-tan.vercel.app/)
+* ✉️  Email: [ma07041705@gmail.com](mailto:ma07041705@gmail.com)
+* 💬 Connect: [LinkedIn]: (https://www.linkedin.com/in/mohamed-ahmed-513947241/)
+
+  I'm always open to new opportunities, collaborations, and discussions. Feel free to reach out via email at ma07041705@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/mohamed-ahmed-513947241/).
+
+Thank you for visiting my GitHub profile! Let's make the coding world better together. 🚀
+  
+<h3 align="left">I have experience and enjoy working with various technologies, including::</h3>
 <p align="left">
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
